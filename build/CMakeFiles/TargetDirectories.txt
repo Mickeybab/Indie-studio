@@ -1,0 +1,7 @@
+/home/enzo/epitech/indie-studio/build/CMakeFiles/install/strip.dir
+/home/enzo/epitech/indie-studio/build/CMakeFiles/edit_cache.dir
+/home/enzo/epitech/indie-studio/build/CMakeFiles/bomberman.dir
+/home/enzo/epitech/indie-studio/build/CMakeFiles/rebuild_cache.dir
+/home/enzo/epitech/indie-studio/build/CMakeFiles/list_install_components.dir
+/home/enzo/epitech/indie-studio/build/CMakeFiles/install/local.dir
+/home/enzo/epitech/indie-studio/build/CMakeFiles/install.dir
